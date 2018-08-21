@@ -19,3 +19,6 @@ This is a simple memory game coded with JavaScript, CSS and HTML.
 ## Udacity Resources:
 - [PROJECT DESCRIPTION](https://classroom.udacity.com/nanodegrees/nd001/parts/4942f4d7-a48d-4794-9eb0-404b3ed3cfe1/modules/269645859775463/lessons/2696458597239847/concepts/26849785360923)
 - [PROJECT SPECIFICATION](https://review.udacity.com/#!/rubrics/15/view)
+
+## DEMO
+[Arcade-Game](https://martamihai88.github.io/)
