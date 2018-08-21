@@ -21,4 +21,4 @@ This is a simple memory game coded with JavaScript, CSS and HTML.
 - [PROJECT SPECIFICATION](https://review.udacity.com/#!/rubrics/15/view)
 
 ## Demo
-[Arcade-Game](http://my-feedreader.surge.sh/)
+[FeedReader](http://my-feedreader.surge.sh/)
